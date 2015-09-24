@@ -11,6 +11,7 @@ $EYA-dark-grey:#4C4C4C;
 $EYA-green:#94B733;
 $EYA-light-green:#A9CF3F;
 $EYA-black:#000;
+$EYA-light-pink:#E14094;
 $EYA-dark-trans: rgba(0, 0, 0, 0.8);
 
 /* Graphics & Backgrounds */
@@ -19,4 +20,29 @@ $EYA-pink-pattern:url('../images/pink-pattern.png');
 
 /* Includes */
 $EYA-transition: all 0.2s ease-in-out;
+
+/* Media Query - Desktop */
+$EYA-desktop-width:1218px;
+
+/* Media Query - If smaller than 1218px */
+$EYA-custom-width:1217px;
+
+/* Media Query - If smaller than 988px */
+$EYA-1024px-width:1024px;
+
+/* Media Query - If smaller than 988px */
+$EYA-988px-width:988px;
+
+/* Media Query - Portrait Tablet */
+$EYA-768px-width:768px;
+
+/* Media Query - If <= than 568px */
+$EYA-600px-width:600px;
+
+/* Media Query - If <= than 568px */
+$EYA-519px-width:519px;
+
+
+
+
 
